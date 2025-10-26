@@ -41,3 +41,7 @@ notebook
 # fastapi dependencies
 fastapi
 uvicorn
+
+joblib
+Jinja2
+python-multipart
